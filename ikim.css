@@ -1,0 +1,26 @@
+h1{
+	font-family: cursive;
+    color: #34495E;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+p{
+	text-indent: 25px;
+}
+span{
+	font-variant: small-caps;
+	color: #154360;
+	font-weight: bold;
+}
+#external{
+	text-shadow: 1px 1px #85929E;
+}
+body{
+	background-color:#D6DBDF;
+}
+#picture1{
+	border-style: solid;
+	border-color: #85929E;
+	float: right;
+}
