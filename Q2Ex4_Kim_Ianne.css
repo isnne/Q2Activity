@@ -1,0 +1,23 @@
+img{
+	height: 300px;
+	padding: 15px;
+	opacity: .75;
+}
+img:hover{
+	opacity: 1;
+}
+body{
+	background-color: #02055A;
+	color: whitesmoke;
+	text-align: center;
+	font-family: sans-serif;
+	margin: 100px;
+}
+table{
+	margin-left: auto;
+	margin-right: auto;
+}
+h1{
+	text-transform: uppercase;
+	letter-spacing: 12px;
+}
